@@ -1,5 +1,6 @@
 /* General*/
 * {
+
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -8,11 +9,13 @@
 
 
 body {
+
     background-color: whitesmoke;
 }
 
 /* header logo*/
 header {
+
     background-color: white;
     font-size: 35px;
     font-weight: 700;
@@ -21,12 +24,14 @@ header {
 }
 
 #logo {
+
     vertical-align: middle;
 }
 
-/* Main */
+/* Box 1 */
 
-.box {
+.box1 {
+
     background: white;
     margin-top: 50px;
     margin-left: 300px;
@@ -37,6 +42,7 @@ header {
 /* Add Task/Section */
 
 .inputs {
+
     padding: 50px;
 }
 
@@ -57,4 +63,28 @@ header {
     border-radius: 5px;
     padding: 10px;
     
+}
+
+/* Box 2 */
+
+.box2 {
+
+    background: white;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+}
+
+/* List 1 */
+
+.list {
+
+    list-style: none;
+}
+
+
+.icon-yes {
+    
+    color: green;
 }

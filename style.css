@@ -70,7 +70,7 @@ header {
 .box2 {
 
     background: white;
-    margin-top: 50px;
+    margin-top: 5px;
     margin-left: 300px;
     margin-right: 300px;
     border-radius: 10px;
@@ -78,13 +78,82 @@ header {
 
 /* List 1 */
 
+#first {
+    padding: 50px;
+    padding-bottom: 0px;
+}
+
 .list {
 
+    margin-top: 5px;
+    margin-left: 5px;
     list-style: none;
+    font-weight: 700;
+    padding: 15px;
+    
 }
 
 
 .icon-yes {
-    
+
+   
     color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 2px;
+    
+}
+
+.asideboxblue {
+
+    color: white;
+    font-weight: lighter;
+    background-color: rgb(20, 188, 240);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+/* List 1 */
+
+#second {
+    padding: 50px;
+    padding-top: 20px;
+}
+
+.asideboxpurple {
+
+    color: white;
+    font-weight: lighter;
+    background-color: rgb(115, 20, 240);
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+
+.icon-no {
+
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.asideboxgreen {
+
+    color: white;
+    font-weight: lighter;
+    background-color: rgb(49, 119, 84);
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+
+.asideboxorange {
+
+    color: white;
+    font-weight: lighter;
+    background-color: rgb(240, 137, 20);
+    border-radius: 20px;
+    padding: 10px;
+    
 }

@@ -23,3 +23,38 @@ header {
 #logo {
     vertical-align: middle;
 }
+
+/* Main */
+
+.box {
+    background: white;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+}
+
+/* Add Task/Section */
+
+.inputs {
+    padding: 50px;
+}
+
+#add1 {
+    
+    color: white;
+    background-color: rgb(20, 188, 240);
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+
+#add2 {
+
+    color: lightgray;
+    background-color: white;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 10px;
+    
+}

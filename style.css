@@ -97,17 +97,21 @@ header {
     font-weight: 700;
     padding: 15px;
     
+    
 }
 
 
 .icon-yes {
 
-   
     color: green;
     border: 1px solid green;
     border-radius: 50%;
     padding: 2px;
-    
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+
 }
 
 .asideboxblue {
@@ -143,6 +147,10 @@ header {
     border: 1px solid red;
     border-radius: 50%;
     padding: 2px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
 }
 
 .asideboxgreen {

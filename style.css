@@ -37,6 +37,7 @@ header {
     margin-left: 300px;
     margin-right: 300px;
     border-radius: 10px;
+    ;
 }
 
 /* Add Task/Section */
@@ -71,6 +72,7 @@ header {
 
     background: white;
     margin-top: 5px;
+    margin-bottom: 100px;
     margin-left: 300px;
     margin-right: 300px;
     border-radius: 10px;
@@ -113,11 +115,12 @@ header {
     padding: 10px;
 }
 
-/* List 1 */
+/* List 2 */
 
 #second {
     padding: 50px;
-    padding-top: 20px;
+    padding-top: 50px;
+    padding-bottom: 0;
 }
 
 .asideboxpurple {
@@ -156,4 +159,33 @@ header {
     border-radius: 20px;
     padding: 10px;
     
+}
+
+/* List 3 */
+
+#third {
+
+    padding: 50px;
+    padding-top: 50px;
+    padding-bottom: 50;
+
+
+}
+
+.asideboxpink {
+
+    color: white;
+    font-weight: lighter;
+    background-color: rgb(203, 20, 240);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.asideboxgreen2 {
+
+    color: white;
+    font-weight: lighter;
+    background-color: rgb(126, 145, 57);
+    border-radius: 20px;
+    padding: 10px;
 }
